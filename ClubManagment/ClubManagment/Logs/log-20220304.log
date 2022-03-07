@@ -1,0 +1,263 @@
+2022-03-04T00:58:34.2438385+02:00  [INF] Generating inbuilt accounts (d5983574)
+2022-03-04T00:58:35.2537602+02:00  [INF] Inbuilt account generation completed (a663d88d)
+2022-03-04T00:58:35.2674452+02:00  [INF] Seeding initial data (13b66d8a)
+2022-03-04T00:58:35.2843310+02:00  [WRN] The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results. (f43d926b)
+2022-03-04T00:58:35.6595244+02:00  [INF] Seeding initial data completed (dcd778dd)
+2022-03-04T00:58:35.8433739+02:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2022-03-04T00:58:35.8634193+02:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2022-03-04T00:58:35.8711563+02:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2022-03-04T00:58:37.2291141+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-03-04T00:58:37.2337980+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-03-04T00:58:37.2454513+02:00  [INF] Content root path: "D:\Test\ClupManagmeant\ClubManagment\ClubManagment\ClubManagment" (b5d60022)
+2022-03-04T00:58:43.4000299+02:00  [ERR] os - Alias not found.
+ (89822b29)
+2022-03-04T00:59:01.2490508+02:00  [ERR] Compiling @angular/core : es2015 as esm2015
+ (5acd4031)
+2022-03-04T00:59:01.6563039+02:00  [ERR] Compiling @angular/animations : es2015 as esm2015
+ (9c30a060)
+2022-03-04T00:59:09.9898823+02:00  [ERR] Compiling @angular/common : es2015 as esm2015
+ (ebfa3907)
+2022-03-04T00:59:10.4643447+02:00  [ERR] Compiling ngx-bootstrap/utils : es2015 as esm2015
+ (492f6370)
+2022-03-04T00:59:10.6286120+02:00  [ERR] Compiling @angular/animations/browser : es2015 as esm2015
+ (588153d4)
+2022-03-04T00:59:13.0943094+02:00  [ERR] Compiling ngx-bootstrap/positioning : es2015 as esm2015
+ (dcb442f5)
+2022-03-04T00:59:13.1255190+02:00  [ERR] Compiling @angular/platform-browser : es2015 as esm2015
+ (a01bc7a9)
+2022-03-04T00:59:14.2952667+02:00  [ERR] Compiling ngx-bootstrap/component-loader : es2015 as esm2015
+ (476fc570)
+2022-03-04T00:59:15.4042756+02:00  [ERR] Compiling @angular/common/http : es2015 as esm2015
+ (934ad769)
+2022-03-04T00:59:15.7306264+02:00  [ERR] Compiling @angular/forms : es2015 as esm2015
+ (a5e7a4d2)
+2022-03-04T00:59:16.5755069+02:00  [ERR] Compiling @angular/platform-browser-dynamic : es2015 as esm2015
+ (00ea327c)
+2022-03-04T00:59:17.6942325+02:00  [ERR] Compiling @angular/platform-browser/animations : es2015 as esm2015
+ (8689353d)
+2022-03-04T00:59:18.9049332+02:00  [ERR] Compiling @ngx-translate/core : es2015 as esm2015
+ (fb8db328)
+2022-03-04T00:59:19.3791884+02:00  [ERR] Compiling @swimlane/ngx-datatable : es2015 as esm2015
+ (de94b4fb)
+2022-03-04T00:59:19.6000528+02:00  [ERR] Compiling angular-oauth2-oidc : es2015 as esm2015
+ (cf00f9fd)
+2022-03-04T00:59:20.4002697+02:00  [ERR] Compiling ngx-toasta : es2015 as esm2015
+ (74510f6e)
+2022-03-04T00:59:21.0783969+02:00  [ERR] Compiling @ng-select/ng-select : es2015 as esm2015
+ (9cf45cc3)
+2022-03-04T00:59:21.3130711+02:00  [ERR] Compiling ngx-bootstrap/modal : es2015 as esm2015
+ (ca2802c3)
+2022-03-04T00:59:22.5847395+02:00  [ERR] Compiling ngx-bootstrap/tooltip : es2015 as esm2015
+ (1826e0e6)
+2022-03-04T00:59:23.0397646+02:00  [ERR] Compiling ngx-bootstrap/popover : es2015 as esm2015
+ (0740364c)
+2022-03-04T00:59:23.1080490+02:00  [ERR] Compiling ngx-bootstrap/dropdown : es2015 as esm2015
+ (a173ec35)
+2022-03-04T00:59:24.1981701+02:00  [ERR] Compiling ngx-bootstrap/carousel : es2015 as esm2015
+ (38bd2f63)
+2022-03-04T00:59:24.4991651+02:00  [ERR] Compiling ng2-charts : es2015 as esm2015
+ (24251a2c)
+2022-03-04T00:59:25.4341952+02:00  [ERR] Compiling @angular/router : es2015 as esm2015
+ (ede1c3a1)
+2022-03-04T00:59:46.9760541+02:00  [ERR] (node:20884) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at D:\Test\ClupManagmeant\ClubManagment\ClubManagment\ClubManagment\ClientApp\node_modules\postcss\package.json.
+ (04500a77)
+2022-03-04T00:59:46.9791826+02:00  [ERR] Update this package.json to use a subpath pattern like "./*".
+ (2add4188)
+2022-03-04T00:59:46.9847412+02:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-03-04T01:03:33.9687936+02:00 800001eb-0001-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2022-03-04T01:03:34.0853994+02:00 800001ed-0001-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2022-03-04T01:03:34.1415241+02:00 80000184-0000-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2022-03-04T01:03:34.2544545+02:00 80000184-0000-fc00-b63f-84710c7967bb [INF] Credentials validated for username: "admin" (cb811aa7)
+2022-03-04T01:03:34.3146010+02:00 80000184-0000-fc00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2022-03-04T01:16:17.4627813+02:00 80000188-0002-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2022-03-04T01:16:17.6076633+02:00 80000189-0002-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2022-03-04T01:16:18.4534423+02:00 800000a8-0000-fd00-b63f-84710c7967bb [WRN] Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))' (74d62de4)
+2022-03-04T01:30:40.3668191+02:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2022-03-04T01:30:40.3925927+02:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2022-03-04T01:30:40.4077710+02:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2022-03-04T01:30:41.4622022+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-03-04T01:30:41.4662760+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-03-04T01:30:41.4775073+02:00  [INF] Content root path: "D:\Test\ClupManagmeant\ClubManagment\ClubManagment\ClubManagment" (b5d60022)
+2022-03-04T01:30:48.3383254+02:00  [ERR] os - Alias not found.
+ (89822b29)
+2022-03-04T01:31:09.8809841+02:00  [ERR] (node:22224) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at D:\Test\ClupManagmeant\ClubManagment\ClubManagment\ClubManagment\ClientApp\node_modules\postcss\package.json.
+ (e704fa07)
+2022-03-04T01:31:09.8869897+02:00  [ERR] Update this package.json to use a subpath pattern like "./*".
+ (2add4188)
+2022-03-04T01:31:09.8916074+02:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-03-04T01:32:57.0901972+02:00 80000122-0000-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2022-03-04T01:32:57.2080080+02:00 8000019a-0001-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2022-03-04T01:32:57.2697735+02:00 80000100-0003-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2022-03-04T01:32:57.6855854+02:00 80000100-0003-fd00-b63f-84710c7967bb [INF] Credentials validated for username: "admin" (cb811aa7)
+2022-03-04T01:32:57.7457145+02:00 80000100-0003-fd00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2022-03-04T01:33:21.6988045+02:00 8000003f-0003-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2022-03-04T01:33:21.7661989+02:00 80000040-0003-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2022-03-04T01:33:22.3487285+02:00 80000042-0003-fa00-b63f-84710c7967bb [WRN] Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))' (74d62de4)
+2022-03-04T01:45:08.2697832+02:00  [INF] Generating inbuilt accounts (d5983574)
+2022-03-04T01:45:09.3607643+02:00  [INF] Inbuilt account generation completed (a663d88d)
+2022-03-04T01:45:09.3759764+02:00  [INF] Seeding initial data (13b66d8a)
+2022-03-04T01:45:09.3914425+02:00  [WRN] The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results. (f43d926b)
+2022-03-04T01:45:09.8748173+02:00  [INF] Seeding initial data completed (dcd778dd)
+2022-03-04T01:45:10.0603586+02:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2022-03-04T01:45:10.0801603+02:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2022-03-04T01:45:10.0905494+02:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2022-03-04T01:45:11.4116841+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-03-04T01:45:11.4173347+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-03-04T01:45:11.4260025+02:00  [INF] Content root path: "D:\Test\ClupManagmeant\ClubManagment\ClubManagment\ClubManagment" (b5d60022)
+2022-03-04T01:45:18.6763822+02:00  [ERR] os - Alias not found.
+ (89822b29)
+2022-03-04T01:49:13.0793197+02:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2022-03-04T01:49:13.1048164+02:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2022-03-04T01:49:13.1220587+02:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2022-03-04T01:49:14.3490828+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-03-04T01:49:14.3528221+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-03-04T01:49:14.3558616+02:00  [INF] Content root path: "D:\Test\ClupManagmeant\ClubManagment\ClubManagment\ClubManagment" (b5d60022)
+2022-03-04T01:49:21.4520201+02:00  [ERR] os - Alias not found.
+ (89822b29)
+2022-03-04T01:49:42.8490896+02:00  [ERR] (node:18136) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at D:\Test\ClupManagmeant\ClubManagment\ClubManagment\ClubManagment\ClientApp\node_modules\postcss\package.json.
+ (3d7e1079)
+2022-03-04T01:49:42.8604431+02:00  [ERR] Update this package.json to use a subpath pattern like "./*".
+ (2add4188)
+2022-03-04T01:49:42.8638989+02:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)
+2022-03-04T01:50:37.4166780+02:00 800001f1-0001-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2022-03-04T01:50:37.5115513+02:00 80000133-0000-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2022-03-04T01:50:37.5699832+02:00 800001f3-0001-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2022-03-04T01:50:38.0746687+02:00 800001f3-0001-fd00-b63f-84710c7967bb [INF] Credentials validated for username: "admin" (cb811aa7)
+2022-03-04T01:50:38.1453230+02:00 800001f3-0001-fd00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2022-03-04T01:50:46.2551022+02:00 8000015e-0002-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2022-03-04T01:50:46.3269038+02:00 8000015f-0002-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2022-03-04T01:50:47.0288556+02:00 8000018c-0002-ff00-b63f-84710c7967bb [WRN] Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))' (74d62de4)
+2022-03-04T01:53:45.7388618+02:00 80000161-0002-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2022-03-04T01:53:45.7606695+02:00 80000163-0002-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2022-03-04T01:53:45.7748438+02:00 80000139-0000-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2022-03-04T01:53:45.8061774+02:00 80000139-0000-ff00-b63f-84710c7967bb [WRN] Invalid password for user. (6d284782)
+2022-03-04T01:53:45.8097139+02:00 80000139-0000-ff00-b63f-84710c7967bb [WRN] User failed to provide the correct password. (a25e98da)
+2022-03-04T01:53:45.8339739+02:00 80000139-0000-ff00-b63f-84710c7967bb [INF] Authentication failed for username: "user", reason: invalid credentials (61b6995a)
+2022-03-04T01:53:45.8386404+02:00 80000139-0000-ff00-b63f-84710c7967bb [INF] User authentication failed: "invalid_username_or_password", details: TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "user", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "user"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (07b239aa)
+2022-03-04T01:54:30.4176595+02:00 800001f9-0001-fd00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2022-03-04T01:54:30.4322874+02:00 8000013b-0000-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2022-03-04T01:54:30.4548142+02:00 8000013d-0000-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2022-03-04T01:54:30.5077090+02:00 8000013d-0000-ff00-b63f-84710c7967bb [INF] Credentials validated for username: "user" (cb811aa7)
+2022-03-04T01:54:30.5115263+02:00 8000013d-0000-ff00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "user", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "user"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2022-03-04T13:47:53.0075199+02:00 800001aa-0001-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2022-03-04T13:47:53.0260667+02:00 8000016b-0000-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2022-03-04T13:47:53.0393310+02:00 800001ac-0001-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2022-03-04T13:47:53.0851831+02:00 800001ac-0001-fc00-b63f-84710c7967bb [INF] Credentials validated for username: "user" (cb811aa7)
+2022-03-04T13:47:53.0892800+02:00 800001ac-0001-fc00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "user", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "user"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2022-03-04T13:48:07.9592905+02:00 800001ae-0001-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2022-03-04T13:48:07.9736499+02:00 8000016f-0000-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2022-03-04T13:48:07.9862353+02:00 800001b0-0001-fc00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2022-03-04T13:48:08.0063406+02:00 800001b0-0001-fc00-b63f-84710c7967bb [INF] Credentials validated for username: "admin" (cb811aa7)
+2022-03-04T13:48:08.0096160+02:00 800001b0-0001-fc00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "password", Scopes: "email offline_access openid phone profile quickapp_api roles", AuthorizationCode: "********", RefreshToken: "********", UserName: "admin", AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("username": "admin"), ("password": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "password"), ("scope": "openid email phone profile offline_access roles quickapp_api")] } (3a073258)
+2022-03-04T15:00:24.9719892+02:00 8000017b-0003-ff00-b63f-84710c7967bb [INF] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]', Current time: '[PII is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'." (48071232)
+2022-03-04T15:00:24.9960895+02:00 8000017b-0003-ff00-b63f-84710c7967bb [INF] AuthenticationScheme: "Bearer" was challenged. (d45f1f38)
+2022-03-04T15:00:25.0102652+02:00 80000006-0002-f900-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryEndpoint" for "/.well-known/openid-configuration" (f7642de5)
+2022-03-04T15:00:25.0204663+02:00 8000017d-0003-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.DiscoveryKeyEndpoint" for "/.well-known/openid-configuration/jwks" (f7642de5)
+2022-03-04T15:00:25.0321256+02:00 8000017f-0003-ff00-b63f-84710c7967bb [INF] Invoking IdentityServer endpoint: "IdentityServer4.Endpoints.TokenEndpoint" for "/connect/token" (f7642de5)
+2022-03-04T15:00:25.0902754+02:00 8000017f-0003-ff00-b63f-84710c7967bb [INF] Token request validation success, TokenRequestValidationLog { ClientId: "quickapp_spa", ClientName: null, GrantType: "refresh_token", Scopes: null, AuthorizationCode: "********", RefreshToken: "****A214", UserName: null, AuthenticationContextReferenceClasses: null, Tenant: null, IdP: null, Raw: [("refresh_token": "***REDACTED***"), ("client_id": "quickapp_spa"), ("grant_type": "refresh_token")] } (3a073258)
+2022-03-04T23:44:23.0645945+02:00  [ERR] Failed executing DbCommand ("24"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [AppCustomers] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(100) NOT NULL,
+    [Email] nvarchar(100) NULL,
+    [PhoneNumber] varchar(30) NULL,
+    [Address] nvarchar(max) NULL,
+    [City] nvarchar(50) NULL,
+    [Gender] int NOT NULL,
+    [DateCreated] datetime2 NOT NULL,
+    [DateModified] datetime2 NOT NULL,
+    [CreatedBy] nvarchar(256) NULL,
+    [UpdatedBy] nvarchar(256) NULL,
+    [UpdatedDate] datetime2 NOT NULL,
+    [CreatedDate] datetime2 NOT NULL,
+    CONSTRAINT [PK_AppCustomers] PRIMARY KEY ([Id])
+);" (627a98df)
+2022-03-04T23:44:23.3934780+02:00  [FTL] Error whilst creating and seeding database (944fb156)
+System.AggregateException: One or more errors occurred. (There is already an object named 'AppCustomers' in the database.)
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): There is already an object named 'AppCustomers' in the database.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQueryAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQueryAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQueryAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQueryAsync(IEnumerable`1 migrationCommands, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQueryAsync(IEnumerable`1 migrationCommands, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQueryAsync(IEnumerable`1 migrationCommands, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQueryAsync(IEnumerable`1 migrationCommands, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.Migrator.MigrateAsync(String targetMigration, CancellationToken cancellationToken)
+   at DAL.DatabaseInitializer.SeedAsync() in D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\DatabaseInitializer.cs:line 43
+ClientConnectionId:d05109f7-7ca3-4972-b102-a7d6757d1756
+Error Number:2714,State:6,Class:16
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at ClubManagment.Program.Main(String[] args) in D:\Test\ClupManagmeant\ClubManagment\ClubManagment\ClubManagment\Program.cs:line 35
+2022-03-04T23:47:18.4915091+02:00  [ERR] Failed executing DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [AspNetRoles] (
+    [Id] nvarchar(450) NOT NULL,
+    [Description] nvarchar(max) NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [UpdatedBy] nvarchar(max) NULL,
+    [CreatedDate] datetime2 NOT NULL,
+    [UpdatedDate] datetime2 NOT NULL,
+    [Name] nvarchar(256) NULL,
+    [NormalizedName] nvarchar(256) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    CONSTRAINT [PK_AspNetRoles] PRIMARY KEY ([Id])
+);" (627a98df)
+2022-03-04T23:47:18.5375937+02:00  [FTL] Error whilst creating and seeding database (944fb156)
+System.AggregateException: One or more errors occurred. (There is already an object named 'AspNetRoles' in the database.)
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): There is already an object named 'AspNetRoles' in the database.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQueryAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQueryAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQueryAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQueryAsync(IEnumerable`1 migrationCommands, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQueryAsync(IEnumerable`1 migrationCommands, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQueryAsync(IEnumerable`1 migrationCommands, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQueryAsync(IEnumerable`1 migrationCommands, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.Migrator.MigrateAsync(String targetMigration, CancellationToken cancellationToken)
+   at DAL.DatabaseInitializer.SeedAsync() in D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\DatabaseInitializer.cs:line 43
+ClientConnectionId:0d20a527-3a11-48e9-80c6-ed3ebb6fc1d9
+Error Number:2714,State:6,Class:16
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at ClubManagment.Program.Main(String[] args) in D:\Test\ClupManagmeant\ClubManagment\ClubManagment\ClubManagment\Program.cs:line 35
+2022-03-04T23:49:57.5052439+02:00  [INF] Generating inbuilt accounts (d5983574)
+2022-03-04T23:50:23.0153374+02:00  [INF] Inbuilt account generation completed (a663d88d)
+2022-03-04T23:50:23.0267397+02:00  [INF] Seeding initial data (13b66d8a)
+2022-03-04T23:50:23.0408476+02:00  [WRN] The query uses the 'First'/'FirstOrDefault' operator without 'OrderBy' and filter operators. This may lead to unpredictable results. (f43d926b)
+2022-03-04T23:50:23.4281292+02:00  [INF] Seeding initial data completed (dcd778dd)
+2022-03-04T23:50:23.6654168+02:00  [INF] Starting IdentityServer4 version "4.1.2+997a6cdd643e46cd5762b710c4ddc43574cbec2e" (8add0571)
+2022-03-04T23:50:23.6866721+02:00  [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation. (553c312b)
+2022-03-04T23:50:23.6943983+02:00  [INF] Using the default authentication scheme "Identity.Application" for IdentityServer (4a54f457)
+2022-03-04T23:50:25.0099813+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-03-04T23:50:25.0144060+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-03-04T23:50:25.0176775+02:00  [INF] Content root path: "D:\Test\ClupManagmeant\ClubManagment\ClubManagment\ClubManagment" (b5d60022)
+2022-03-04T23:50:34.2288320+02:00  [ERR] os - Alias not found.
+ (89822b29)
+2022-03-04T23:51:07.4311841+02:00  [ERR] (node:29344) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at D:\Test\ClupManagmeant\ClubManagment\ClubManagment\ClubManagment\ClientApp\node_modules\postcss\package.json.
+ (d0a848e6)
+2022-03-04T23:51:07.4343508+02:00  [ERR] Update this package.json to use a subpath pattern like "./*".
+ (2add4188)
+2022-03-04T23:51:07.4421007+02:00  [ERR] (Use `node --trace-deprecation ...` to show where the warning was created)
+ (567f389e)

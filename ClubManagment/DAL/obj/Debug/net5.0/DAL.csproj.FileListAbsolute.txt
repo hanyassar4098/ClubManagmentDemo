@@ -1,0 +1,12 @@
+D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\bin\Debug\net5.0\DAL.dll
+D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\bin\Debug\net5.0\ref\DAL.dll
+D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\obj\Debug\net5.0\DAL.dll
+D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\obj\Debug\net5.0\DAL.pdb
+D:\Test\ClupManagmeant\ClubManagment\ClubManagment\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
